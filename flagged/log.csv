@@ -1,0 +1,5 @@
+symptom_list,output,flag,username,timestamp
+"['belly_pain', 'irritability', 'stomach_pain', 'acidity']",,,,2023-05-16 11:14:11.672821
+"['belly_pain', 'irritability', 'acidity', 'stomach_pain']",GERD,,,2023-05-16 11:14:35.281966
+"['joint_pain', 'burning_micturition', 'weight_loss', 'breathlessness']",Acne,,,2023-11-22 08:44:41.141680
+"['itching', 'skin_rash', 'sunken_eyes', 'patches_in_throat']",Fungal infection,,,2024-03-18 16:34:43.837064
